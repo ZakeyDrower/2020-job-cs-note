@@ -344,6 +344,12 @@ HR，了解我们的文化吗？他为什么要来面我们？他会不会留下
 
 ## 8.2. 其他学习资源
 
+### 《剑指Offer》 OJ
+
+LeetCode：https://leetcode-cn.com/problemset/lcof/
+
+牛客：https://www.nowcoder.com/ta/coding-interviews
+
 ### 8.2.1. 侯捷老师C++系列课程
 
 以前B站有，写这篇的时候没查到，同学们也可自己找一找。
